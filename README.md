@@ -42,6 +42,20 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 7. **Data Quality and Cleaning**
    - Age had approximately **20% missing values** and was imputed using the median.
    - Cabin had approximately **77% missing values** and was removed from the analysis.
+
+## Visualizations
+
+### Survival by Gender
+
+![Survival by Gender](images/survival_by_gender.png)
+
+### Survival by Passenger Class
+
+![Survival by Class](images/survival_by_class.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
   
 ## Files
 - titanic_eda_guide1.ipynb : Complete EDA notebook
@@ -51,4 +65,3 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 - Build a Titanic Survival Prediction model using Machine Learning.
 - Compare Logistic Regression and Random Forest performance.
-- Deploy the model as a web application.
