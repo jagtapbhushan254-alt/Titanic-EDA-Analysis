@@ -47,15 +47,15 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ### Survival by Gender
 
-![Survival by Gender](images/survival_by_gender.png)
+![Survival by Gender](images/survival_by_gender.jpg)
 
 ### Survival by Passenger Class
 
-![Survival by Class](images/survival_by_class.png)
+![Survival by Class](images/survival_by_class.jpg)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.jpg)
   
 ## Files
 - titanic_eda_guide1.ipynb : Complete EDA notebook
