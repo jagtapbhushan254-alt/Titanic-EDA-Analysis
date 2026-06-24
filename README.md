@@ -42,20 +42,18 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 7. **Data Quality and Cleaning**
    - Age had approximately **20% missing values** and was imputed using the median.
    - Cabin had approximately **77% missing values** and was removed from the analysis.
-
+  
+   
 ## Visualizations
 
 ### Survival by Gender
-
-![Survival by Gender](images/survival_by_gender.jpg)
+![Survival by Gender](survival_by_gender.jpg)
 
 ### Survival by Passenger Class
-
-![Survival by Class](images/survival_by_class.jpg)
+![Survival by Class](survival_by_class.jpg)
 
 ### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.jpg)
+![Correlation Heatmap](correlation_heatmap.jpg)
   
 ## Files
 - titanic_eda_guide1.ipynb : Complete EDA notebook
